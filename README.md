@@ -1,17 +1,26 @@
 # next
-- draw a real loss curve for kaggle contest REF: https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model
-- deploy k8s
+- kaggle race_cov, convert dcm 2 png
 
 
-# 0429
+
+
+# 2021
+
+## 0619
+- race_cov, download dataset
+
+
+
+
+# 2020
+
+## 0429
 - new post https://kyshel.com/2020/04/29/k8s-explore/
 
 
-# 0414
+## 0414
 - check graph_log
 
-# done
+## done
 
-
-# glog
-like vlog, this is a Glog-- Github Log
+ 
