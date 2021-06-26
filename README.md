@@ -5,6 +5,11 @@
 
 
 
+# 0626
+- colab auto forward ok
+- built softlink
+
+
 
 ## 0624
 - kaggle race_cov, convert dcm 2 png
