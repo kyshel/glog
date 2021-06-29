@@ -2,6 +2,11 @@
 - alg0003 submit
 
 
+
+
+## 0629
+- bash auto forward at startup
+
 ## 0627
 - submit alg0002
 
