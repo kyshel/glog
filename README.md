@@ -2,7 +2,8 @@
 - alg0003 submit
 
 
-
+## 0630
+- tmux power released 
 
 ## 0629
 - bash auto forward at startup
