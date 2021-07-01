@@ -1,6 +1,11 @@
 # next
 - alg0003 submit
 
+## 0701
+- 21cov submitted multi times, but has error, checking and wait for next submit
+- ocr submitted, with only 0.13, wait for ideas from cc
+
+
 
 ## 0630
 - tmux power released 
@@ -40,6 +45,6 @@
 ## 0414
 - check graph_log
 
-## done
+ 
 
 # 2020
