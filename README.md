@@ -1,6 +1,9 @@
 # next
 - alg0003 submit
 
+## 0702
+- 21cov submit still fail, need test again
+
 ## 0701
 - 21cov submitted multi times, but has error, checking and wait for next submit
 - ocr submitted, with only 0.13, wait for ideas from cc
