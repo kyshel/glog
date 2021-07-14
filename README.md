@@ -1,6 +1,11 @@
 # next
 - alg0003 submit1
 
+
+## 0715
+- kaggle notebook-only submission never success, fuck!
+
+
 ## 0702
 - 21cov submit still fail, need test again
 
