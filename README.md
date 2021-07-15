@@ -4,13 +4,10 @@
 
 
 
-## 0715
-- so, the spacy seems like a big pit that has funny version 
-
-
+ 
 ## 0715
 - kaggle notebook-only submission never success, fuck!
-
+- so, the spacy seems like a big pit that has funny versions
 
 ## 0702
 - 21cov submit still fail, need test again
