@@ -2,6 +2,12 @@
 - alg0003 submit1
 
 
+
+
+## 0715
+- so, the spacy seems like a big pit that has funny version 
+
+
 ## 0715
 - kaggle notebook-only submission never success, fuck!
 
