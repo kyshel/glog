@@ -3,7 +3,8 @@
 
 
 
-
+## 0719
+- learning torch image classification task
  
 ## 0715
 - kaggle notebook-only submission never success, fuck!
