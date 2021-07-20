@@ -2,6 +2,9 @@
 - alg0003 submit1
 
 
+## 0720
+-  visualised CNN layers
+
 
 ## 0719
 - learning torch image classification task
