@@ -1,6 +1,10 @@
 # next
+- 28emoji with yolov5 style 
 - alg0003 submit1
 
+
+## 0723
+- improved 28emji to 0.40
 
 ## 0720
 -  visualised CNN layers
