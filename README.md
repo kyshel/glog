@@ -1,7 +1,9 @@
 # next
-- 28emoji with yolov5 style 
+- make a simple workflow for learning task 
 - alg0003 submit1
 
+## 0724
+- 28emoji with yolov5 style seems like complex, simplifying
 
 ## 0723
 - improved 28emji to 0.40
