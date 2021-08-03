@@ -2,6 +2,9 @@
 - make a simple workflow for learning task 
 - alg0003 submit1
 
+## 0803
+- run the brain tumor 
+
 ## 0724
 - 28emoji with yolov5 style seems like complex, simplifying
 
