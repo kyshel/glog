@@ -2,6 +2,10 @@
 - make a simple workflow for learning task 
 - alg0003 submit1
 
+
+## 0804
+- continue 21covid and got the reason that error
+
 ## 0803
 - run the brain tumor 
 
